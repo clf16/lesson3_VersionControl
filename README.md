@@ -2,19 +2,22 @@
 
 
 ## Course Title:
-Web Application Development
+LIS 2360: Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(February 5, 2018)
 
 ## Student Name:  
-(First and Last Name)
+(Catherine Finn)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment was to allow us to help learn Git and Version Control and how it incorporates to Web Development.)
+
+## View Project:
+(https://clf16.github.io/lesson3_VersionControl/.)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Git was created to help make processing faster and have more storage for VC.)
+2. (Git takes snapshots of data in order to restore old ones.)
+3. (Older VC erases old data for the newer ones, thus making Git more user friendly for developers.)
 
